@@ -120,7 +120,7 @@ More detailed instruction in attachment)
    
    h. Close Disk Utility
 
-4. For some old HIgh Sierra installer, you will get this error (Mac OS X could not be installed) so you have to change date to 2017 to contined (Disable Internet needed)
+4. For some old OS installer, you will get this error (Mac OS X could not be installed) so you have to change date to 2017 to contined (Disable Internet needed)
 
    a. Form the menu bar, click Utilities -> Choose Terminal
    
