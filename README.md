@@ -1,3 +1,14 @@
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/54585187/80493993-573af900-8990-11ea-8b54-e525f30493a4.png" width="50"/>
+</p>
+
+-----
+[![Clover](https://img.shields.io/badge/Clover-green)](https://github.com/CloverHackyColor/CloverBootloader)
+![macOS](https://img.shields.io/badge/macOS-10.11_to_10.13.6-blueviolet)
+[![Support-status](https://img.shields.io/badge/Support-NO-Red)](https://github.com/KhaiZeRoFX/OpenCore-Dell-inspiron-3458)
+
+<img align="right" src="https://user-images.githubusercontent.com/54585187/78202425-80b25300-74be-11ea-846d-3c16924c3772.png" alt="Critter" width="550">
+
 # Hackintosh-Dell-Inspiron-3458
 Hackintosh on Dell inspiron 3458
 ## Laptop Specs
@@ -24,8 +35,6 @@ Hackintosh on Dell inspiron 3458
 ## Not Working
 - SD card reader (untest)
 - Wifi with continuity features (Intel card not support)
-
-![info](https://user-images.githubusercontent.com/54585187/78202425-80b25300-74be-11ea-846d-3c16924c3772.png)
 
 ## Pre Condition
 
