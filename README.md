@@ -5,7 +5,7 @@
 -----
 [![Clover](https://img.shields.io/badge/Clover-green)](https://github.com/CloverHackyColor/CloverBootloader)
 ![macOS](https://img.shields.io/badge/macOS-10.11_to_10.13.6-blueviolet)
-[![Support-status](https://img.shields.io/badge/Support-NO-Red)](https://github.com/KhaiZeRoFX/OpenCore-Dell-inspiron-3458)
+[![Support-status](https://img.shields.io/badge/Support-YES-Green)](https://github.com/KhaiZeRoFX/OpenCore-Dell-inspiron-3458)
 
 <img align="right" src="https://user-images.githubusercontent.com/54585187/78202425-80b25300-74be-11ea-846d-3c16924c3772.png" alt="Critter" width="550">
 
